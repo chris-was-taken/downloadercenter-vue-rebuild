@@ -2,7 +2,7 @@
 
 > I found a old prototype of the Conrad Downloadcenter, redone with Vue.JS and the Cliplister API
 > 
-> I removed the api keys, therefore be able to search
+> I removed the api keys, therefore it shouldnt be able to search
 
 ## Build Setup
 
