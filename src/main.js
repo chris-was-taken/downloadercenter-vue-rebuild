@@ -39,8 +39,8 @@ Vue.prototype.$getAccessToken = function () {
 
 function generateAccessToken(callback) {
 
-  let clientID = "7089dccc-3501-3eae-977d-720238e91c84";
-  let clientSecret = "e48ed3fd-cabd-36ce-a2d6-427aee0fc613";
+  let clientID = "";
+  let clientSecret = "";
   let authorizationToken = "Basic " + btoa(clientID + ":" + clientSecret);
 
   axios({
